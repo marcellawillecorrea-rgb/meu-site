@@ -1,6 +1,6 @@
 body{
   background-color: seashell;
-  color: maroon;
+  color:rgb(253, 2, 128);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -21,7 +21,7 @@ img{
    }
 a{
   text-decoration: none;
-  color: maroon;
+  color: rgb(255, 249, 249);
   text-align: center;
 }
 a:hover{
@@ -34,7 +34,7 @@ body.modo_escuro {
 
 
 button {
-  border: 2px solid green;
+  border: 2px solid rgb(196, 17, 202);
   border-radius: 20px;
   width: 80px;
   position: fixed;
